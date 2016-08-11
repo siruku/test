@@ -2,4 +2,4 @@
 覚える・体験する
 modified on remote repository
 
-reset　を試してみる　もう一度
+reset　を試してみる
