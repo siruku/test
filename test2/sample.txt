@@ -1,0 +1,7 @@
+﻿サルでもわかるGitコマンド
+覚える・体験する
+modified on remote repository
+
+reset　を試してみる
+
+mergeできないかな！？
