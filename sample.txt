@@ -5,3 +5,4 @@ modified on remote repository
 reset　を試してみる　mergeするぜ！
 reset　を試してみる
 
+update on bran2
