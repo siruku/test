@@ -6,3 +6,7 @@ update on bran2
 It's the point of th end.
 
 8/21 updating
+
+testing staging area
+
+make staged update and nonstaged update
