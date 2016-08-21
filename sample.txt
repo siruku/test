@@ -11,4 +11,4 @@ testing staging area
 
 make staged update and nonstaged update
 
-testing[git commit -m "abc" -m"def"]
+testing[git commit -m "abc" -m"def"] <- completed !!
