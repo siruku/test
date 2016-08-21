@@ -1,13 +1,8 @@
-﻿サルでもわかるGitコマンド
-覚える・体験する
-modified on remote repository
-
-reset　を試してみる　mergeするぜ！
+﻿reset　を試してみる　mergeするぜ！
 reset　を試してみる
 
 update on bran2
 
-
-
-
 It's the point of th end.
+
+8/21 updating
