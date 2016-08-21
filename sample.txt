@@ -10,3 +10,5 @@ It's the point of th end.
 testing staging area
 
 make staged update and nonstaged update
+
+testing[git commit -m "abc" -m"def"]
