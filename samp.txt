@@ -11,5 +11,5 @@ testing[git commit -m "abc" -m"def"] <- completed !!
 
 c#
 ruby
-Excel VBA
 Lisp
+c++
